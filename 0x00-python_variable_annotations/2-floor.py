@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-""" 
-    A basic annotations for concat 
+"""
+    A basic annotations for concat
 """
 
 import math

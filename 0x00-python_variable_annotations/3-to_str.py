@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-""" 
-    A basic annotations - to string  
+"""
+    A basic annotations - to string
 """
 
 
